@@ -1,5 +1,5 @@
 {
-  "name": "simple-auth",
+  "name": "express-simple-auth",
   "version": "1.0.0",
   "description": "Simple auth middleware for express, compatible with express-basic-auth",
   "main": "index.js",
